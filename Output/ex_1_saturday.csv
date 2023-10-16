@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",big Jerry Indy food truck,"8522 Madison Ave, Indianapolis, IN 46227, USA",9.5 mi,3 hours 32 mins,8.8 mi,20 mins,5.0,10:30AM-7:00PM,n/a,n/a,drive
+2,big Jerry Indy food truck,"8522 Madison Ave, Indianapolis, IN 46227, USA",Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222, USA",15.0 mi,5 hours 32 mins,20.7 mi,28 mins,4.5,5:00PM-1:00AM,False,False,drive
+3,Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222, USA",Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222, USA",4.2 mi,1 hour 33 mins,4.0 mi,11 mins,4.3,11:00AM-11:00PM,n/a,n/a,drive
+4,Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222, USA",Tacos y tortas arroyo,"2120 W Morris St, Indianapolis, IN 46221, USA",1.7 mi,37 mins,1.7 mi,5 mins,5.0,6:00PM-12:00AM,n/a,n/a,drive
+5,Tacos y tortas arroyo,"2120 W Morris St, Indianapolis, IN 46221, USA",Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",2.3 mi,51 mins,2.6 mi,9 mins,-,-,-,-,drive

@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222, USA",6.7 mi,2 hours 29 mins,7.8 mi,16 mins,5.0,11:00AM-10:00PM,False,False,drive
+2,KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222, USA",Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",6.9 mi,2 hours 34 mins,8.3 mi,16 mins,4.7,6:00PM-12:00AM,True,n/a,drive
+3,Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",3.7 mi,1 hour 22 mins,3.7 mi,11 mins,4.4,11:00AM-11:50PM,True,n/a,drive
+4,Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222, USA",3.8 mi,1 hour 25 mins,3.7 mi,9 mins,4.5,5:00PM-1:00AM,False,False,drive
+5,Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222, USA",Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",5.5 mi,2 hours 2 mins,5.7 mi,16 mins,n/a,-,-,-,drive
